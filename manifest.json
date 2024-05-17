@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Freedum",
+    "author": "Sumanth",
+    "version": "1.0",
+    "description": "just click the icon to see the magic happen",
+    "permissions": [
+        "tabs"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_icon": {
+            "48": "ico.png"
+        }
+    },
+    "icons": {
+        "48": "ico.png"
+    }
+}
