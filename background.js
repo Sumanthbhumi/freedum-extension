@@ -21,6 +21,6 @@ chrome.tabs.onActivated.addListener(function(activeInfo) {
 
 // Listen for browser action clicks
 chrome.browserAction.onClicked.addListener(function(tab) {
-    var newURL = "https://freedium-miror-saqg.vercel.app/" + tab.url;
+    var newURL = "https://freedium.cfd/" + tab.url;
     chrome.tabs.create({ url: newURL });
 });
