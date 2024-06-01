@@ -16,5 +16,9 @@ This extension offers easy access to exclusive <a href="https://medium.com/">Med
    2. Open your preferred browser and go to the extension settings and enable developer mode.
    3. Click **Load unpacked** and choose the folder that was unzipped.
       
-## 📹 Videos
+## 📹 Video
    Here's a video demonstrating how to install in Brave.
+   
+https://github.com/Sumanthbhumi/freedum-extension/assets/115710501/d7b33123-6f73-470f-acf8-34f4747a0223
+
+
