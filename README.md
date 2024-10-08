@@ -1,3 +1,5 @@
+> [!IMPORTANT]
+> Chromium moved from manifest 2 to 3 making this no longer supporting in future.
 <h1 align="center">freedum-extension</h1>
 
 <p align="center">
